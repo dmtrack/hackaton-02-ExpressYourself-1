@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackaton-02-ExpressYourself-1/static/css/main.a5ad9539.css",
+    "main.js": "/hackaton-02-ExpressYourself-1/static/js/main.096ca955.js",
+    "index.html": "/hackaton-02-ExpressYourself-1/index.html",
+    "main.a5ad9539.css.map": "/hackaton-02-ExpressYourself-1/static/css/main.a5ad9539.css.map",
+    "main.096ca955.js.map": "/hackaton-02-ExpressYourself-1/static/js/main.096ca955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ad9539.css",
+    "static/js/main.096ca955.js"
+  ]
+}
